@@ -8,7 +8,7 @@ Cette accessibilité a profondément transformé l’inclusion financière. Cepe
 Notre mission est de concevoir un modèle de machine learning capable d’estimer la probabilité qu’une transaction mobile money soit frauduleuse. Pour chaque transaction du fichier de test, nous avons prédit une probabilité comprise entre 0 et 1.
 
 # Description des données 
-Le jeu de données anonymisé fourni regroupe des transactions mobile money. Il contient un fichier d’entraînement (train.csv avec la cible fraud_flag), un fichier de test (test.csv), un fichier d'exemple de soumission et un notebook de démarrage.
+Le jeu de données anonymisé fourni regroupe des transactions mobile money. Il contient un fichier d’entraînement (train.csv avec la cible fraud_flag), un fichier de test (test.csv).
 Les données mélangent plusieurs dimensions : des données numériques (montants rescalés, soldes avant/après des comptes initiateurs et destinataires), des données catégorielles (catégorie d'opération anonymisée), ainsi qu'une dimension temporelle simulée (period). Chaque ligne correspond à une transaction unique identifiée par id.
 
 # Lien de la documentation des données
