@@ -12,3 +12,4 @@ Le jeu de données anonymisé fourni regroupe des transactions mobile money. Il 
 Les données mélangent plusieurs dimensions : des données numériques (montants rescalés, soldes avant/après des comptes initiateurs et destinataires), des données catégorielles (catégorie d'opération anonymisée), ainsi qu'une dimension temporelle simulée (period). Chaque ligne correspond à une transaction unique identifiée par id.
 
 # Lien de la documentation des données
+ https://drive.google.com/drive/folders/1qCYYAoCwII2Ed3vuDjFXLlel4f-mYk1u?usp=sharing
